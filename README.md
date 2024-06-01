@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Flutter**.
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AmmarAgeeza?page=1&tab=repositories)**.
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/mohamedAlaa-CS?tab=repositories)**.
 
 <br>
 <div align="center">
@@ -20,7 +20,7 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java" />
     <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
 </div>
 
