@@ -34,11 +34,11 @@
 
 <p align="center">
     <a href="https://github.com/mohamedAlaa-CS/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AmmarAgeeza's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmmarAgeeza&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mohamedAlaa-CS's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedAlaa-CS&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="AmmarAgeeza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmmarAgeeza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="AmmarAgeeza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAgeeza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/mohamedAlaa-CS/github-readme-stats"><img alt="mohamedAlaa-CS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohamedAlaa-CS&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/mohamedAlaa-CS/github-readme-stats"><img alt="mohamedAlaa-CS's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedAlaa-CS&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br>
 <div align="center">
@@ -75,10 +75,10 @@
 
 ## 💜 Views and Followers:
 
-<a href="https://github.com/AmmarAgeeza/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AmmarAgeeza">
+<a href="https://github.com/mohamedAlaa-CS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mohamedAlaa-CS">
 </a>
-<a href="https://github.com/AmmarAgeeza?tab=followers"><img src="https://img.shields.io/github/followers/AmmarAgeeza?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/mohamedAlaa-CS?tab=followers"><img src="https://img.shields.io/github/followers/mohamedAlaa-CS?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
 </h3>
