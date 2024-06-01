@@ -1,23 +1,86 @@
-<h1 align="center">Hi 👋, I'm Mohamed Alaa Abdo</h1>
-<h3 align="center">A Software Engineer from Egypt</h3>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ammar+Ageeza!+😎;" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedalaa-cs&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedalaa-cs" /> </p>
+<br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohamedAlaa-CS?tab=repositories](https://github.com/mohamedAlaa-CS?tab=repositories)
+## 🙋‍♂️ About Me:
 
-- 📫 How to reach me **mohamedalaacs@gmail.com**
+- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** | **Instructor** .
 
-- ⚡ Fun fact **I love football**
+- 🌱 I’m currently learning **Advanced Flutter**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AmmarAgeeza?page=1&tab=repositories)**.
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 🚀 Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
+</div>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 📊 My Stats:
+
+<p align="center">
+    <a href="https://github.com/AmmarAgeeza/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AmmarAgeeza's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmmarAgeeza&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
+<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="AmmarAgeeza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmmarAgeeza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="AmmarAgeeza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAgeeza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedalaa-cs&show_icons=true&locale=en&layout=compact" alt="mohamedalaa-cs" /></p>
+## 🤝 Connect With Me:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedalaa-cs&show_icons=true&locale=en" alt="mohamedalaa-cs" /></p>
+<div align="center">
+    <a href="https://www.linkedin.com/in/ammar-ageeza-9031891b8/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+  <a href="mailto:ammarfathy516@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+        <a href="https://mostaql.com/u/ammarageeza/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+    <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
+    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+     </a>
+     <a href="https://t.me/ammarageeza">
+    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedAlaa-CS&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 💜 Views and Followers:
+
+<a href="https://github.com/AmmarAgeeza/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=AmmarAgeeza">
+</a>
+<a href="https://github.com/AmmarAgeeza?tab=followers"><img src="https://img.shields.io/github/followers/AmmarAgeeza?label=Followers&style=social" alt="GitHub Badge"></a>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
+</h3>
+
+<br/>
