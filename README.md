@@ -30,21 +30,24 @@
 </div>
 <br>
 
-## 📊 My Stats:
+## 📊 GitHub Analytics
 
-<p align="center">
-    <a href="https://github.com/mohamedAlaa-CS/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mohamedAlaa-CS's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedAlaa-CS&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-<a href="https://github.com/mohamedAlaa-CS/github-readme-stats"><img alt="mohamedAlaa-CS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohamedAlaa-CS&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/mohamedAlaa-CS/github-readme-stats"><img alt="mohamedAlaa-CS's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedAlaa-CS&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<br>
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+
+
+<img width="49%" src="https://streak-stats.demolab.com?user=mohamedAlaa-CS&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+
+
 </div>
-<br>
+
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedAlaa-CS&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
 
 ## 🤝 Connect With Me:
 
@@ -80,5 +83,4 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
 </h3>
-
 <br/>
